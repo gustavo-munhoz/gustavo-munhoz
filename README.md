@@ -21,7 +21,7 @@ I'm an aspiring Computer Engineering graduate with a focus on iOS development, n
 
 ## Let's Connect
 
-I'm on a constant quest to collaborate on challenging projects that push my limits and expand my horizons. If you're interested in working together or just want to chat about technology, feel free to [reach out](https://github.com/gustavo-munhoz)!
+I'm on a constant quest to collaborate on challenging projects that push my limits and expand my horizons. If you're interested in working together or just want to chat about technology, feel free to [reach out](https://www.linkedin.com/in/gmcorrea/)!
 
 Check out my portfolio: [www.mnhz.dev](http://www.mnhz.dev)
 
