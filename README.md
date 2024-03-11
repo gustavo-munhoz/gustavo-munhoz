@@ -26,6 +26,6 @@ I'm on a constant quest to collaborate on challenging projects that push my limi
 Check out my portfolio: [www.mnhz.dev](http://www.mnhz.dev)
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-munhoz&layout=compact&theme=synthwave&langs_count=4&hide=html,css)](https://github.com/anuraghazra/github-readme-stats) ![Codewars Rank](https://www.codewars.com/users/gustavo-munhoz/badges/large)
+![Codewars Rank](https://www.codewars.com/users/gustavo-munhoz/badges/large)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-munhoz&layout=compact&theme=synthwave&langs_count=4&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
