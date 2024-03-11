@@ -23,7 +23,7 @@ I'm an aspiring Computer Engineering graduate with a focus on iOS development, n
 
 I'm on a constant quest to collaborate on challenging projects that push my limits and expand my horizons. If you're interested in working together or just want to chat about technology, feel free to [reach out](https://github.com/gustavo-munhoz)!
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=gustavo-munhoz&repo=portfolio&theme=synthwave)](https://github.com/gustavo-munhoz/portfolio)
+Check out my portfolio: [www.mnhz.dev](http://www.mnhz.dev)
 
 ---
 
