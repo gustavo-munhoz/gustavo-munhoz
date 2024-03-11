@@ -12,12 +12,7 @@ I'm an aspiring Computer Engineering graduate with a focus on iOS development, n
 
 ## Technologies
 
-![Swift](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+[![Languages](https://skillicons.dev/icons?i=swift,java,python,c,nodejs,prisma,javascript,mysql,react,figma,neovim,html,css,apple,notion,svg)](https://skillicons.dev) 
 
 ## Let's Connect
 
