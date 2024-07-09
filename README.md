@@ -6,7 +6,7 @@ I'm an aspiring Computer Engineering graduate with a focus on iOS development, n
 
 🍏 **iOS Development**: Specializing in creating reliable and intuitive iOS apps, blending technical knowledge with a passion for user-centered design.
 
-💻 **Full-Stack Development**: Equipped with backend skills in Node.js and front-end prowess in React, I enjoy building seamless end-to-end experiences.
+💻 **Full-Stack Development**: Equipped with backend skills in Node.js and front-end knowledge in React, I enjoy building seamless end-to-end experiences.
 
 🔍 **Continuous Learning**: Passionate about the ever-evolving tech landscape, I'm constantly broadening my skill set in software development.
 
