@@ -12,16 +12,15 @@ I'm an aspiring Computer Engineering graduate with a focus on iOS development, n
 
 ## Technologies
 
-[![Languages](https://skillicons.dev/icons?i=swift,java,python,c,nodejs,prisma,javascript,mysql,react,figma,neovim,html,css,apple,notion,svg)](https://skillicons.dev) 
+[![Languages](https://skillicons.dev/icons?i=swift,java,python,c,nodejs,prisma,javascript,mysql,react,figma,neovim,html,css,apple,notion)](https://skillicons.dev) 
 
 ## Let's Connect
 
 I'm on a constant quest to collaborate on challenging projects that push my limits and expand my horizons. If you're interested in working together or just want to chat about technology, feel free to [reach out](https://www.linkedin.com/in/gmcorrea/)!
 
-Check out my portfolio: [www.mnhz.dev](http://www.mnhz.dev)
 
 ---
 ![Codewars Rank](https://www.codewars.com/users/gustavo-munhoz/badges/large)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-munhoz&layout=compact&theme=synthwave&langs_count=4&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=gustavo-munhoz)](https://github.com/anuraghazra/github-readme-stats)
 
